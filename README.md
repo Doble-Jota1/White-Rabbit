@@ -1,4 +1,5 @@
 # White-Rabbit
 A collective game analysis database contributed by Jerry and Alex
 
-【Gorogoa](1. Gorogoa/Gorogoa.md)
+10/01/2025  
+【Gorogoa](1.%20Gorogoa/Gorogoa.md)
